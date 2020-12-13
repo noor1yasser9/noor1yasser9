@@ -27,6 +27,7 @@ My main focus is Mobile Application Development with android and Design (UX/UI) 
 - RxJava/Coroutines
 - GoogleMap/Mapbox
 - Retrofit/Volley
+- Sockit
 
 
 
