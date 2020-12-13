@@ -1,6 +1,6 @@
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=nightowl)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) &nbsp;&nbsp;&nbsp; ![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=demo&theme=nightowl)
 
 
 
