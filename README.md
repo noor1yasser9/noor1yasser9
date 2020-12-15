@@ -8,7 +8,7 @@ I am a self-motivated and Mobile Application Development who finds that the best
 I believe that when it comes to programming work, it’s equal parts creativity and logic.
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
 
-<br/>
+<br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
 
