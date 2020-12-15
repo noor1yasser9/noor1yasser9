@@ -8,8 +8,9 @@ I am a self-motivated and Mobile Application Development who finds that the best
 I believe that when it comes to programming work, it’s equal parts creativity and logic.
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
 
- <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=radical)<br/>
-
+<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
+<br/>
 # About me in a few words:
 - Proficient with Java/Kotlin/Android SDK
 - Experience in developing, releasing and maintaining high-quality apps
@@ -27,11 +28,9 @@ My main focus is Mobile Application Development with android and Design (UX/UI) 
 - GoogleMap/Mapbox
 - Retrofit/Volley
 - Sockit
-<br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
+ <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=radical)<br/>
 
-<br/>
 🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
 🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br>
 
