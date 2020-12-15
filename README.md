@@ -9,8 +9,11 @@ I believe that when it comes to programming work, it’s equal parts creativity 
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
 
 <br/>
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
+
 <br/>
+
 # About me in a few words:
 - Proficient with Java/Kotlin/Android SDK
 - Experience in developing, releasing and maintaining high-quality apps
