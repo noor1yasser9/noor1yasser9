@@ -1,7 +1,6 @@
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical)  		&nbsp;&nbsp;&nbsp;![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=radical) <br/>
-
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical)  		&nbsp;&nbsp;&nbsp;
 
 <br />
 Hi! I’m always open to new experiences. Only remote positions for now.
@@ -9,6 +8,8 @@ Hi! I’m always open to new experiences. Only remote positions for now.
 I am a self-motivated and Mobile Application Development who finds that the best way to come up with solutions is to think outside the box.
 I believe that when it comes to programming work, it’s equal parts creativity and logic.
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=radical) <br/>
 
 # About me in a few words:
 - Proficient with Java/Kotlin/Android SDK
