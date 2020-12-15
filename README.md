@@ -10,7 +10,7 @@ My main focus is Mobile Application Development with android and Design (UX/UI) 
 
 <br/><br/>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=Nurbk229) 
 
 <br/>
 
