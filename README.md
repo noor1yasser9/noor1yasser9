@@ -1,6 +1,5 @@
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical)  		&nbsp;&nbsp;&nbsp;
 
 <br />
 Hi! I’m always open to new experiences. Only remote positions for now.
@@ -28,9 +27,9 @@ My main focus is Mobile Application Development with android and Design (UX/UI) 
 - GoogleMap/Mapbox
 - Retrofit/Volley
 - Sockit
-
-
-
+<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Nurbk229&show_icons=true&theme=radical) 
+<br/>
 🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
 🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br>
 
