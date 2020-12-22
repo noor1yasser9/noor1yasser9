@@ -29,7 +29,7 @@ My main focus is Mobile Application Development with android and Design (UX/UI) 
 - RxJava/Coroutines
 - GoogleMap/Mapbox
 - Retrofit/Volley
-- Sockit
+- Sockets 
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Nurbk229&layout=compact&theme=radical)<br/>
 
