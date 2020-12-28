@@ -7,7 +7,7 @@ Hi! I’m always open to new experiences. Only remote positions for now.
 I am a self-motivated and Mobile Application Development who finds that the best way to come up with solutions is to think outside the box.
 I believe that when it comes to programming work, it’s equal parts creativity and logic.
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
-
+ 
 <br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=Nurbk229) 
