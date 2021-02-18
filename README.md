@@ -8,9 +8,9 @@ I am a self-motivated and Mobile Application Development who finds that the best
 I believe that when it comes to programming work, it’s equal parts creativity and logic.
 My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
 
-<br/>
 
-Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
+
+<br/> Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
 
 <br/>
 
