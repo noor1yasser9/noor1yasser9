@@ -1,22 +1,14 @@
 ### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+<br/>
 
-<br />
-Hi! I’m always open to new experiences. Only remote positions for now.
-<br />
-I am a self-motivated and Mobile Application Development who finds that the best way to come up with solutions is to think outside the box.
-I believe that when it comes to programming work, it’s equal parts creativity and logic.
-My main focus is Mobile Application Development with android and Design (UX/UI) User Experience and User Interface.
-
-
-
-<br/> Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
+Hi! I'm Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
 
 <br/>
 
 I'm specializing in the development of Android applications and working on many applications, from simple single-screen applications to large applications.
- 
-<br/><br/>
+
+<br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=Nurbk229) 
 
