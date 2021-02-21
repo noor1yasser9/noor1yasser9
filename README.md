@@ -2,6 +2,25 @@
 
 <br/>
 
+
+<a href="https://www.facebook.com/NURBK277" rel="nofollow">
+<img align="left" alt="Noor Yasser | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
+  </a>
+  <a href="https://instagram.com/nurbk7777?igshid=7wijr59xifi3" rel="nofollow">
+  <img align="left" alt="Noor Yasser | Instagram " width="21px" src="https://user-images.githubusercontent.com/41232970/101995959-dd653f00-3cd6-11eb-9051-761842d7d700.png" style="max-width:100%;">
+</a>
+<a href="https://www.linkedin.com/in/noor-yasser-487a86165/" rel="nofollow">
+  <img align="left" alt="Noor Yasser | LinkedIn " width="21px" src="https://user-images.githubusercontent.com/41232970/101995945-c1fa3400-3cd6-11eb-8497-79b0e6a7e217.png" style="max-width:100%;">
+  <a href="https://twitter.com/NUR_BK77" rel="nofollow">
+  <img align="left" alt="Noor Yasser | twitter " width="21px" src="https://user-images.githubusercontent.com/41232970/101995968-ef46e200-3cd6-11eb-82c9-2f9cf297dfe1.png" style="max-width:100%;">
+</a>
+    <a href="https://www.behance.net/mrh610371211" rel="nofollow">
+  <img align="left" alt="Noor Yasser | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
+</a>
+  <br>
+<br>
+
+<br /> <br />
 Hi! I'm Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
 I'm specializing in the development of Android applications and working on many applications, from simple single-screen applications to large applications.
 
@@ -33,21 +52,4 @@ I'm specializing in the development of Android applications and working on many 
 🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
 🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br>
 
-<br /> <br />
 
-<a href="https://www.facebook.com/NURBK277" rel="nofollow">
-<img align="left" alt="Noor Yasser | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
-  </a>
-  <a href="https://instagram.com/nurbk7777?igshid=7wijr59xifi3" rel="nofollow">
-  <img align="left" alt="Noor Yasser | Instagram " width="21px" src="https://user-images.githubusercontent.com/41232970/101995959-dd653f00-3cd6-11eb-9051-761842d7d700.png" style="max-width:100%;">
-</a>
-<a href="https://www.linkedin.com/in/noor-yasser-487a86165/" rel="nofollow">
-  <img align="left" alt="Noor Yasser | LinkedIn " width="21px" src="https://user-images.githubusercontent.com/41232970/101995945-c1fa3400-3cd6-11eb-8497-79b0e6a7e217.png" style="max-width:100%;">
-  <a href="https://twitter.com/NUR_BK77" rel="nofollow">
-  <img align="left" alt="Noor Yasser | twitter " width="21px" src="https://user-images.githubusercontent.com/41232970/101995968-ef46e200-3cd6-11eb-82c9-2f9cf297dfe1.png" style="max-width:100%;">
-</a>
-    <a href="https://www.behance.net/mrh610371211" rel="nofollow">
-  <img align="left" alt="Noor Yasser | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
-</a>
-  <br>
-<br>
