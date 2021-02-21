@@ -23,7 +23,7 @@
 Hi! I'm Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
 I'm specializing in the development of Android applications and working on many applications, from simple single-screen applications to large applications.
 
-<br/>
+<br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=Nurbk229) 
 
