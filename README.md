@@ -18,9 +18,8 @@
   <img align="left" alt="Noor Yasser | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
 </a>
   <br>
-<br>
 
-<br /> <br />
+<br /> 
 Hi! I'm Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
 I'm specializing in the development of Android applications and working on many applications, from simple single-screen applications to large applications.
 
