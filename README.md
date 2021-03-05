@@ -28,7 +28,7 @@ I'm specializing in the development of Android applications and working on many 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=Nurbk229) 
 
 <br/>
-
+ 
 # About me in a few words:
 - Proficient with Java/Kotlin/Android SDK
 - Experience in developing, releasing and maintaining high-quality apps
