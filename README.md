@@ -22,7 +22,7 @@
   <img align="left" alt="Noor Yasser | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCS4VHaTpm-gv0Y1dOmzyoZA" rel="nofollow">
-  <img align="left" alt="Noor Yasser | Youtube " src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
+  <img align="left" alt="Noor Yasser | Youtube " width="26px" src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
   <a href="https://ko-fi.com/noor_yasser" rel="nofollow">
   <img align="left" alt="Noor Yasser | ko-fi "  src="https://user-images.githubusercontent.com/41232970/116767006-2cb5cd00-aa36-11eb-8429-f3f6705a0126.png" style="max-width:300%; max-height:150%;"> </a>  
   <br>
