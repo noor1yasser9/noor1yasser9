@@ -26,6 +26,10 @@
   <a href="https://ko-fi.com/noor_yasser" rel="nofollow">
   <img align="left" alt="Noor Yasser | ko-fi " width="26px"   src="https://user-images.githubusercontent.com/41232970/123541993-d1f7d380-d74f-11eb-9997-f5ff49aa79b2.png" style="max-width:300%; max-height:150%;"> </a>  
   <br>
+  
+ <h4 align="center">
+  <a href="https://github.com/noor1yasser9?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+</h4>
 
 <br /> 
 Hi! I'm Android application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products.
