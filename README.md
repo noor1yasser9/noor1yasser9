@@ -57,7 +57,10 @@ I'm specializing in the development of Android applications and working on many 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
 
 🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
-🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br>
+🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br><br>
+
+
+ <img src="https://activity-graph.herokuapp.com/graph?username=noor1yasser9&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 
   
 <h4 align="center">
