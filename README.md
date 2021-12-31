@@ -28,7 +28,7 @@
   <br>
 
 <br /> 
-Hi! I'm mobile application developer, excellent analytical and design capabilities with a keen attention to detail and overall quality of end result, my goals are to continue to provide a high quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and working on many applications, from simple single-screen applications to large applications.I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI and development clean code with teamwork.
+Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
 <br/><br/>
 
@@ -42,6 +42,7 @@ Hi! I'm mobile application developer, excellent analytical and design capabiliti
 - Easy adaptive to business or any requirements
 
 # Key things I've dealt with:
+- Jetpack Compose 
 - Clean Architecture
 - Google Architecture components
 - MVP/MVVM/MVI
