@@ -59,6 +59,7 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
 🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br><br>
 
+![Metrics](https://metrics.lecoq.io/noor1yasser9)
 
  <img src="https://activity-graph.herokuapp.com/graph?username=noor1yasser9&theme=react-dark&bg_color=000&hide_border=true" width="100%"/>
 
