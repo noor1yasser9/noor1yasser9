@@ -1,8 +1,18 @@
 
+<h1 align="center">Hello 👋, I'm Noor Yasser</h1>
+
 <p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
 
+<p align="center">
+	<a href="mailto:noor1yasser9@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/noor1yasser9/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
+	<a href="https://twitter.com/noor9yasser1"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
+  	<a href="https://www.upwork.com/freelancers/~01632135076190e454"><img src="[https://img.icons8.com/bubbles/75/000000/medium-new.png](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png)" alt="Upwork"/></a>
+	<a href="https://www.instagram.com/noor1yasser9/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
+	<a href="https://wa.me/+972597606412"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
+</p>
 
-### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
+### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
 
 <p align="center"> 
   Visitor count<br>
@@ -28,6 +38,8 @@
   <br>
 
 <br /> 
+ I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps.
+
 Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
 
 <br/><br/>
