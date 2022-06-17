@@ -7,13 +7,9 @@
 	<a href="mailto:noor1yasser9@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/noor1yasser9/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/noor9yasser1"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
-  	<a href="https://www.upwork.com/freelancers/~01632135076190e454"><img src="[https://img.icons8.com/bubbles/75/000000/medium-new.png](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/452/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png)" alt="Upwork"/></a>
+  	<a href="https://www.upwork.com/freelancers/~01632135076190e454"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/undefined/external-upwork-a-global-freelancing-platform-where-professionals-connect-and-collaborate-remotely-logo-shadow-tal-revivo.png" alt="Upwork" /></a>
 	<a href="https://www.instagram.com/noor1yasser9/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
 	<a href="https://wa.me/+972597606412"><img src="https://img.icons8.com/bubbles/75/000000/whatsapp.png" alt="Whatsapp"/></a>
-</p>
-
-### Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"></h2>
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/Nurbk229/count.svg" />
@@ -68,8 +64,6 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
 
-🔭 I’m currently working at <a href="https://www.upwork.com/o/profiles/users/~01632135076190e454/" rel="nofollow">Upwork</a><br>
-🌱 I’m currently working at <a href="https://mostaql.com/u/nurbk77" rel="nofollow">Mostaql</a><br><br>
 
 ![Metrics](https://metrics.lecoq.io/noor1yasser9)
 
