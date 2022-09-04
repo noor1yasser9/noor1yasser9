@@ -64,6 +64,7 @@ A focused and diligent developer of four years with working experience and exper
 - CSS
 - HTML
 - RESTful services/APIs
+- Laravel
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
 
