@@ -34,10 +34,7 @@
   <br>
 
 <br /> 
- I mostly write Android native apps but I have experience with iOS native and flutter cross platform apps.
-
-Hi! I'm a mobile application developer, excellent analytical and design capabilities with keen attention to detail and overall quality of end result, my goals are to continue to provide a high-quality development service and to participate in successful projects and products. I'm specializing in the development of Android applications and work on many applications, from simple single-screen applications to large applications. I work on all aspects of the development lifecycle, applying my knowledge of OOP, MVVM, MVP, MVI, and MVC principles. My past work includes building user-focused, innovative, keep user security and performance UI, and developing clean code with teamwork.
-
+A focused and diligent developer of four years with working experience and experience in experiment in modular and object oriented programming, application design, troubleshooting and website development and mobile application development seeks a position in your firm with the aim to contribute to its organizational and client development by effective web application creation according to the specifics given by the client and ensuring innovative self maintenance done by the program itself. Experience in common third-party APIs. Passionate about giving best design and following coding practices
 <br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=noor1yasser9) 
@@ -45,7 +42,7 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 <br/>
  
 # About me in a few words:
-- Proficient with Java/Kotlin/Android SDK
+- Proficient with PHP/Java/Kotlin/IOS/Dart
 - Experience in developing, releasing and maintaining high-quality apps
 - Easy adaptive to business or any requirements
 
@@ -61,6 +58,12 @@ Hi! I'm a mobile application developer, excellent analytical and design capabili
 - GoogleMap/Mapbox
 - Retrofit/Volley
 - Sockets 
+- Web frameworks
+- Composer
+- JavaScript
+- CSS
+- HTML
+- RESTful services/APIs
 
  <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
 
