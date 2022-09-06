@@ -34,7 +34,7 @@
   <br>
 
 <br /> 
-A focused and diligent developer of four years with working experience and experience in experiment in modular and object oriented programming, application design, troubleshooting and website development and mobile application development seeks a position in your firm with the aim to contribute to its organizational and client development by effective web application creation according to the specifics given by the client and ensuring innovative self maintenance done by the program itself. Experience in common third-party APIs. Passionate about giving best design and following coding practices
+A focused and diligent developer of four years with working experience and experience in experimentation in modular and object oriented programming, application design, results-driven and motivated Software Engineer with a demonstrated experience in improving software performance, testing and updating existing software, and developing new software functionalities. Offers proven track record of extraordinary achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
 <br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=noor1yasser9) 
