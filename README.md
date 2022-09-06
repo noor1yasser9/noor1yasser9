@@ -32,10 +32,13 @@
   <a href="https://ko-fi.com/noor_yasser" rel="nofollow">
   <img align="left" alt="Noor Yasser | ko-fi " width="26px"   src="https://user-images.githubusercontent.com/41232970/123541993-d1f7d380-d74f-11eb-9997-f5ff49aa79b2.png" style="max-width:300%; max-height:150%;"> </a>  
   <br>
-![CV](https://docs.google.com/document/d/1nLqyYIMvb5m7AInmTFJ3OWvOnAVjPvgV3Oi04XxlcDA/edit?usp=sharing)
+
 
 <br /> 
+
 A focused and diligent developer of four years with working experience and experience in experimentation in modular and object oriented programming, application design, results-driven and motivated Software Engineer with a demonstrated experience in improving software performance, testing and updating existing software, and developing new software functionalities. Offers proven track record of extraordinary achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
+<br/><br/>
+<a href ="https://docs.google.com/document/d/1nLqyYIMvb5m7AInmTFJ3OWvOnAVjPvgV3Oi04XxlcDA/edit?usp=sharing">MY CV</a>
 <br/><br/>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=noor1yasser9) 
