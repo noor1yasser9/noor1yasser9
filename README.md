@@ -17,60 +17,46 @@
 <br/>  
    
  
-<a href="https://www.facebook.com/NURBK277" rel="nofollow">
-<img align="left" alt="Noor Yasser | Facebook" width="20px" src="https://user-images.githubusercontent.com/41232970/101995912-819ab600-3cd6-11eb-82ed-f560a6ebca15.png" style="max-width:100%;">
-  </a> 
 
-<a href="https://www.linkedin.com/in/noor-yasser-487a86165/" rel="nofollow">
-  <img align="left" alt="Noor Yasser | LinkedIn " width="21px" src="https://user-images.githubusercontent.com/41232970/101995945-c1fa3400-3cd6-11eb-8497-79b0e6a7e217.png" style="max-width:100%;">
-</a>
-    <a href="https://www.behance.net/mrh610371211" rel="nofollow">
+<a href="https://www.behance.net/mrh610371211" rel="nofollow">
   <img align="left" alt="Noor Yasser | behance " width="21px" src="https://user-images.githubusercontent.com/41232970/102018882-beb78480-3d78-11eb-9b20-7adbd5cc7110.png" style="max-width:100%;">
 </a>
 <a href="https://www.youtube.com/channel/UCS4VHaTpm-gv0Y1dOmzyoZA" rel="nofollow">
   <img align="left" alt="Noor Yasser | Youtube " width="26px" src="https://user-images.githubusercontent.com/41232970/102919173-0e8cfe80-4491-11eb-9706-cdebd4f610ff.png" style="max-width:300%; max-height:150%;"> </a>
-  <a href="https://ko-fi.com/noor_yasser" rel="nofollow">
-  <img align="left" alt="Noor Yasser | ko-fi " width="26px"   src="https://user-images.githubusercontent.com/41232970/123541993-d1f7d380-d74f-11eb-9997-f5ff49aa79b2.png" style="max-width:300%; max-height:150%;"> </a>  
   <br>
 
 
 <br /> 
 
 A focused and diligent developer of four years with working experience and experience in experimentation in modular and object oriented programming, application design, results-driven and motivated Software Engineer with a demonstrated experience in improving software performance, testing and updating existing software, and developing new software functionalities. Offers proven track record of extraordinary achievements, strong attention to detail, and ability to finish projects on schedule and within budget.
-<br/><br/>
 <a href ="https://docs.google.com/document/d/1nLqyYIMvb5m7AInmTFJ3OWvOnAVjPvgV3Oi04XxlcDA/edit?usp=sharing">MY CV</a>
 <br/><br/>
 
+ # Languages, Frameworks and Skills:
+- Java Programming Language.
+- Kotiln Programming Language.
+- C# Programming Language.
+- Swfit Programming Language.
+- PHP Programming Language.
+- Dart Programming Language.
+- PHP Laravel Framework.
+- PHP Laravel Nova Framework
+- ASP.Net Core Framework.
+- Restful API.
+- Firebase FireStore.
+- RealTime Database (Firebase).
+- DATABASES: SQLite, MySQL.
+- OOP Concepts.
+- Clean Architecture.
+- Fimilar with Project Managment tools like jira , trello.
+- MVC, MVP, MVVM, MVI architecture pattern.
+- Very good experience with Native Mobile Development.
+- Good acknowledgment with UX/UI.
+
+
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?show_icons=true&theme=radical&username=noor1yasser9) 
 
-<br/>
- 
-# About me in a few words:
-- Proficient with PHP/Java/Kotlin/IOS/Dart
-- Experience in developing, releasing and maintaining high-quality apps
-- Easy adaptive to business or any requirements
-
-# Key things I've dealt with:
-- Jetpack Compose 
-- Clean Architecture
-- Google Architecture components
-- MVP/MVVM/MVI
-- Single Activity
-- Dagger
-- Firebase/Room/SQLite/MySql
-- RxJava/Coroutines
-- GoogleMap/Mapbox
-- Retrofit/Volley
-- Sockets 
-- Web frameworks
-- Composer
-- JavaScript
-- CSS
-- HTML
-- RESTful services/APIs
-- Laravel
-
- <br/>![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
+![Anurag's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=radical)<br/>
 
 
 ![Metrics](https://metrics.lecoq.io/noor1yasser9)
