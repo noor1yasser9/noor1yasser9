@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Noor Yasser</h1>
 
-<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>
+<!--<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>-->
 
 <p align="center">
 	<a href="mailto:noor1yasser9@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
