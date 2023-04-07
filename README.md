@@ -4,11 +4,11 @@
 <!--<p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif"><img src="https://user-images.githubusercontent.com/41232970/116540063-56fe7200-a8f2-11eb-83cb-a7537363da94.gif" alt="Header" title="Header" style="max-width:100%;"></a></p>-->
 
 <p align="center">
-	<a href="mailto:noor1yasser9@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/noor1yasser9/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
-	<a href="https://twitter.com/noor9yasser1"><img src="https://skills.thijs.gg/icons?i=twitter" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/noor1yasser9/"><img src="https://skills.thijs.gg/icons?i=instagram" alt="Instagram"/></a>
-	<a href="https://wa.me/+972597606412"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
+	<a target="_blank" href="mailto:noor1yasser9@gmail.com"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Gmail.png" width='50px' alt="Gmail"/></a>
+	<a target="_blank" href="https://www.linkedin.com/in/noor1yasser9/"><img src="https://skills.thijs.gg/icons?i=linkedin" alt="LinkedIn"/></a>
+	<atarget="_blank"  href="https://twitter.com/noor9yasser1"><img src="https://skills.thijs.gg/icons?i=twitter" alt="Twitter"/></a>
+	<a target="_blank" href="https://www.instagram.com/noor1yasser9/"><img src="https://skills.thijs.gg/icons?i=instagram" alt="Instagram"/></a>
+	<a target="_blank" href="https://wa.me/+972597606412"><img src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" width='50px' alt="Whatsapp"/></a>
 
 </p>
 <br/>  
