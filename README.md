@@ -28,8 +28,8 @@ As a PHP Laravel Developer with 5 years of experience, I have a strong backgroun
 - PHP Laravel Framework.
 - PHP Laravel Nova Framework
 - ASP.Net Core Framework.
-<!-- - Restful API. -->
-- Firebase FireStore.
+- Restful API.
+- Firebase Firestore.
 - RealTime Database (Firebase).
 - DATABASES: SQLite, MySQL.
 - OOP Concepts.
