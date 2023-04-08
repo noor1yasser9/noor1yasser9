@@ -18,7 +18,7 @@
 As a PHP Laravel Developer with 5 years of experience, I have a strong background in building and maintaining server-side web applications using the Laravel framework. I have demonstrated expertise in integrating payment methods such as PayPal, Stripe, and other third-party services into web applications. My skills also include proficiency in PHP, MySQL, MongoDB, and SQL, as well as knowledge of database design and API development. I am familiar with software development methodologies such as Agile and Scrum and have experience working in collaborative environments using version control systems such as Git. I am able to work independently and as part of a team, and have excellent problem-solving and communication skills. My ability to integrate payment methods and other third-party services makes me a valuable asset to any development team.
 <br/><br/>
 
- # Languages, Frameworks and Skills:
+ ## Languages and Frameworks I know:
 - Java Programming Language.
 - Kotiln Programming Language.
 - C# Programming Language.
@@ -39,7 +39,7 @@ As a PHP Laravel Developer with 5 years of experience, I have a strong backgroun
 - Very good experience with Native Mobile Development.
 - Good acknowledgment with UX/UI.
 
-## My Skills
+## Skills I know:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,angular,cs,dotnet,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postgres,postman,powershell,ts,eclipse,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,wordpress,visualstudio,unity,swift)](https://skills.thijs.gg)
 
 <p align="center"> 
