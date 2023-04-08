@@ -39,7 +39,7 @@ As a PHP Laravel Developer with 5 years of experience, I have a strong backgroun
 - Very good experience with Native Mobile Development.
 - Good acknowledgment with UX/UI.
 
-## Skills I know:
+## Skills and Tools I know:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,angular,cs,dotnet,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postgres,postman,powershell,ts,eclipse,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,wordpress,visualstudio,unity,swift)](https://skills.thijs.gg)
 
 <p align="center"> 
