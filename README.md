@@ -39,6 +39,18 @@ As a PHP Laravel Developer with 5 years of experience, I have a strong backgroun
 - Very good experience with Native Mobile Development.
 - Good acknowledgment with UX/UI.
 
+## Activity & Statistics:
+ ### Streak Stats:
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=noor1yasser9&theme=react)
+
+### Activity
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=noor1yasser9&show_icons=true&theme=react)
+
+### Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=noor1yasser9&layout=compact&theme=react)
+
+</div>
+
 ## Skills and Tools I know:
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,wasm,angular,cs,dotnet,firebase,git,github,gitlab,kotlin,laravel,nginx,php,postgres,postman,powershell,ts,eclipse,blender,bash,androidstudio,bootstrap,dart,docker,figma,flutter,jquery,mysql,sqlite,java,xd,wordpress,visualstudio,unity,swift)](https://skills.thijs.gg)
 
