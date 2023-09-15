@@ -15,7 +15,7 @@
    
  
 <br /> 
-As a PHP Laravel Developer with 5 years of experience, I have a strong background in building and maintaining server-side web applications using the Laravel framework. I have demonstrated expertise in integrating payment methods such as PayPal, Stripe, and other third-party services into web applications. My skills also include proficiency in PHP, MySQL, MongoDB, and SQL, as well as knowledge of database design and API development. I am familiar with software development methodologies such as Agile and Scrum and have experience working in collaborative environments using version control systems such as Git. I am able to work independently and as part of a team, and have excellent problem-solving and communication skills. My ability to integrate payment methods and other third-party services makes me a valuable asset to any development team.
+Noor Yasser is an accomplished backend developer with 5 years of experience in building robust server-side web applications, seamlessly integrating payment methods, and optimizing third-party services. Proficient in a variety of backend technologies, Noor excels at enhancing web applications for superior performance and scalability. His expertise extends to cloud platforms like AWS and OCI, where he leverages Terraform to deploy and manage resources efficiently. Noor's collaborative nature and problem-solving skills make him a valuable asset for companies seeking excellence in backend development.
 <br/><br/>
 
  ## Languages and Frameworks I know:
