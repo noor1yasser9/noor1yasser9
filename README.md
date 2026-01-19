@@ -18,7 +18,10 @@
 <div align="center">
 
 <!-- 3D Animated Title -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=100&lines=👨‍💻+Hello+World%2C+I'm+Noor+Yasser;Senior+Backend+Developer+%7C+5%2B+Years;Crafting+Elegant+Solutions+with+Code;Laravel+%7C+NestJS+%7C+NextJS+Expert;PHP+%7C+JavaScript+%7C+TypeScript;Passionate+About+Clean+Architecture;Turning+Ideas+Into+Reality+✨" alt="Typing SVG" />
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=32&duration=2000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=940&height=300&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Hello+World%2C+I%27m+Noor+Yasser;Senior+Backend+Developer+%7C+5%2B+Years;Crafting+Elegant+Solutions+with+Code;Laravel+%7C+NestJS+%7C+NextJS+Expert;PHP+%7C+JavaScript+%7C+TypeScript;Passionate+About+Clean+Architecture;Turning+Ideas+Into+Reality+" alt="Noor Yasser - Senior Backend Developer Header"/>
+</div>
 
 <!-- Social Badges with 3D Effect -->
 <p align="center">
@@ -50,7 +53,7 @@
 
 <!-- Profile Views Counter with Animation -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noor1yasser9&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=noor1yasser9&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=33212" alt="Profile Views"/>
   <img src="https://img.shields.io/github/followers/noor1yasser9?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
   <img src="https://img.shields.io/github/stars/noor1yasser9?label=Stars&style=for-the-badge&color=yellow" alt="GitHub Stars"/>
 </p>
@@ -421,7 +424,7 @@ continuous_improvement:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noor1yasser9&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=noor1yasser9&theme=tokyonight&no-frame=false&no-bg=false&margin-w=15&margin-h=15&column=3&row=2" alt="GitHub Trophies"/>
 </div>
 
 <div align="center">
@@ -631,7 +634,7 @@ console.log("Current Status:", "Building awesome stuff! 🚀");
 <div align="center">
 
 <!-- Profile Views Counter -->
-<img src="https://komarev.com/ghpvc/?username=noor1yasser9&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=noor1yasser9&label=Profile%20Views&color=blueviolet&style=for-the-badge&base=33212" alt="Profile Views"/>
 
 <!-- GitHub Metrics -->
 <img src="https://img.shields.io/github/followers/noor1yasser9?label=Followers&style=for-the-badge&color=blue&logo=github" alt="GitHub Followers"/>
